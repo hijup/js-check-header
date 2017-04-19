@@ -1,6 +1,6 @@
 {
   "name": "check-header",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check if a header name or header value is valid.",
   "main": "index.js",
   "module": "index.es.js",
